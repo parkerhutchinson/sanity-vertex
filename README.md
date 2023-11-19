@@ -1,4 +1,4 @@
-# sanity-plugin-sanity-3d-viewer
+# sanity-plugin-3d-viewer
 
 > This is a **Sanity Studio v3** plugin.
 
